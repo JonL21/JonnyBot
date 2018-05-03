@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# Here
+# VSC files
+.vscode/
+
+# Unused folders/files
+Classes/
+
+# The config file
+config.json

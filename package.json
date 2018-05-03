@@ -1,0 +1,25 @@
+{
+  "name": "JonnyBot",
+  "version": "1.0.0",
+  "description": "This be a bot for mostly gambling",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "JonL21",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "discord.js": "^11.3.2",
+    "eslint": "^4.19.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2",
+    "googleapis": "^25.0.0",
+    "jshint": "^2.9.5",
+    "node-opus": "^0.2.7",
+    "sequelize": "^4.37.1",
+    "sqlite3": "^3.1.13",
+    "ytdl-core": "^0.20.2"
+  }
+}
