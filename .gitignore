@@ -63,6 +63,8 @@ typings/
 
 # Unused folders/files
 Classes/
+.eslintrc.json
+database.sqlite
 
 # The config file
 config.json
