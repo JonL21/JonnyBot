@@ -87,8 +87,8 @@ module.exports = {
 
 		}).catch(err => {
 			console.error(err);
+			msg.channel.send('Something went wrong.');
 		});
-
 	},
 };
 

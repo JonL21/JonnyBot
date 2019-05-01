@@ -7,7 +7,7 @@ JonnyBot is a Discord bot built on [discord.js](https://github.com/discordjs/dis
 * Poker
 * Blackjack
 * Poker Slot
-* Lottery (Disabled)
+* Lottery
 * Fish
 * Dice
 * Daily

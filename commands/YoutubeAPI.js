@@ -1,5 +1,5 @@
 const { apikey } = require('../config.json');
-const google = require('googleapis');
+const { google } = require('googleapis');
 
 module.exports = {
 	getVideo: query => {
